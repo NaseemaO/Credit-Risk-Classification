@@ -123,4 +123,6 @@ Loans with '1' value are High Risk Loans. This is the Positive '1' value.
 
 In comparison, the Precision and Recall on the High Risk Loans is about 10% less than the Logistic Regression data accuracy score. However the overall score on both the Healthy and the High Risk Loans is good at 99%
 
+Include a recommendation for how a different model could solve this classification problem, and then explain your recommendation.
+
 
